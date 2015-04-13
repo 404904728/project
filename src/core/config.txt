@@ -1,0 +1,7 @@
+jdbcUrl = jdbc:mysql://localhost:3306/project?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull
+user = root
+password = gg
+devMode = true
+tabMode = update
+tableschema = project
+

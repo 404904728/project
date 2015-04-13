@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<pojo name="dept">
+		<sql>id_f,name_f,order_f//1,系统内置部门,1</sql>
+	</pojo>
+	<pojo name="User">
+		<sql>id_f,code_f,name_f,no_f,pwd_f,dept_f,sex_f//1,10001,管理员,admin,c4ca4238a0b923820dcc509a6f75849b,1,0
+		</sql>
+	</pojo>
+</data>
